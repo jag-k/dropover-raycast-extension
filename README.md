@@ -10,4 +10,4 @@ Add selected files to [Drover](https://dropoverapp.com) with a single click from
 
 ## Screenshots
 
-![Dropover Raycast Extension in Raycast menu](https://raw.githubusercontent.com/jag-k/dropover-raycast-extension/main/metadata/screenshot-01.png)
+![Dropover Raycast Extension in Raycast menu](https://raw.githubusercontent.com/jag-k/dropover-raycast-extension/main/screenshot/dropover-1.png)
