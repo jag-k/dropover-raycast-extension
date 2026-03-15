@@ -2,9 +2,12 @@
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "dropover",
   "title": "Dropover",
-  "description": "Add selected files to Dropover",
+  "description": "Add selected files or clipboard content to Dropover",
   "icon": "command-icon.png",
   "author": "jag-k",
+  "contributors": [
+    "dheeraj"
+  ],
   "categories": [
     "Applications",
     "Productivity"
@@ -15,6 +18,12 @@
       "name": "index",
       "title": "Add to Dropover",
       "description": "Add selected files to Dropover",
+      "mode": "no-view"
+    },
+    {
+      "name": "add-from-clipboard",
+      "title": "Add Clipboard to Dropover",
+      "description": "Add copied image or text from clipboard to Dropover",
       "mode": "no-view"
     }
   ],
