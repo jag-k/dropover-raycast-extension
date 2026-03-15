@@ -1,6 +1,6 @@
 # Dropover Changelog
 
-## [Add Clipboard Support] - 2025-01-28
+## [Add Clipboard Support] - {PR_MERGE_DATE}
 
 ### New Features
 - **New Command: "Add Clipboard to Dropover"** - Add images or text directly from clipboard

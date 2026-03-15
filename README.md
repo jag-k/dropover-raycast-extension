@@ -26,7 +26,7 @@ Add content from your clipboard to Dropover:
 
 ## Screenshots
 
-![Dropover Raycast Extension in Raycast menu](https://raw.githubusercontent.com/jag-k/dropover-raycast-extension/main/screenshot/dropover-1.png)
+![Dropover Raycast Extension in Raycast menu](https://raw.githubusercontent.com/jag-k/dropover-raycast-extension/main/screenshots/dropover-1.png)
 
 ## Links
 
